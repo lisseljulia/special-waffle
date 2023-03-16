@@ -13,3 +13,5 @@
 * Godkän PR 
 * Se till att main är uppdaterad 
 * git pull origin main
+
+hej hopp från menu
