@@ -19,4 +19,4 @@ hej hopp från menu
 * $ git pull origin main
 * $ git push origin name
 
-## Här kommer en rubrik från julia
+## Här kommer en rubrik från main
