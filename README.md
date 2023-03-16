@@ -15,3 +15,6 @@
 * git pull origin main
 
 hej hopp från menu
+*gå in på branch som är efter 
+* $ git pull origin main
+* $ git push origin name
